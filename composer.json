@@ -1,0 +1,10 @@
+{
+    "name": "inner-modules/iblock-by-code",
+    "description": "Получение ID инфоблока по символьному коду с кешированием в файл. PHP >= 7.3",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
